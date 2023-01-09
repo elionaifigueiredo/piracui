@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Piracui</string>
+    <string name="txt_botao_main_layout">Button update list App</string>
+    <string name="textView_left">TextView</string>
+    <string name="imagem_right">imagem da diretia</string>
+    <string name="Texto_decricao">Descrição</string>
+</resources>
